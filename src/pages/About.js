@@ -5,14 +5,11 @@ const About = () => {
     <section className="section about-section">
       <h1 className="section-title">About</h1>
       <p style={{ textAlign: "center" }}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem,
-        accusantium quis consequuntur aspernatur laudantium repellat qui iste
-        recusandae cupiditate voluptate odit laborum. Ratione ab laboriosam
-        deleniti nostrum illo facere natus! Lorem ipsum dolor sit amet
-        consectetur adipisicing elit. <br />
-        Odio, tempora esse! Minus tempora cumque tenetur nobis eveniet neque
-        aut, nemo necessitatibus iste perspiciatis nesciunt quidem fuga facere
-        culpa, animi placeat.
+        This is just a simple Drinks Database Website, made by MohitKumar using
+        React for learning purpose.
+        <br /> This Website uses the The Cocktails DB API to fetch the Drinks.
+        <br />
+        Also, Special thanks to John Smilga for the React Tutorials.
       </p>
     </section>
   );
